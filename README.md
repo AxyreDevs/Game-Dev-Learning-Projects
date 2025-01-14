@@ -13,15 +13,18 @@ Consists of:
   :Status — Discontinued
 
 
+
 ## **Godot Engine - Mobile**
 Consist of:
 
   • **Brackey's 2D Game Tutorial**
   
   :Sub-Name — Lil Knight
+  
   :Status — Completed
   
   • **GDQuest Vampire Survivors Tutorial**
   
   :Sub-Name — Pew Pew Blob
+  
   :Status — Completed
