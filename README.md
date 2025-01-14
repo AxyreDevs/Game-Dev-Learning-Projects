@@ -5,9 +5,11 @@ Repository to store files of my previously created projects and/or games which h
 Consists of:
 
   • **Poly Parasites**
+  
   :Status — Exported Game
   
   • **Avian Project**
+  
   :Status — Discontinued
 
 
@@ -15,9 +17,11 @@ Consists of:
 Consist of:
 
   • **Brackey's 2D Game Tutorial**
+  
   :Sub-Name — Lil Knight
   :Status — Completed
   
   • **GDQuest Vampire Survivors Tutorial**
+  
   :Sub-Name — Pew Pew Blob
   :Status — Completed
